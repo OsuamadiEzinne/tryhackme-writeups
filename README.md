@@ -13,8 +13,8 @@ This repository documents my cybersecurity learning journey through practical, h
 ## Write-up index
 
 | Room / Box | Platform | Difficulty | Key skills |
-|---|---|---|---|
-| Room Name | TryHackMe | Easy | Nmap, enumeration |
+   |---|---|---|---|
+   | Introduction to Cybersecurity | TryHackMe | Easy | Cybersecurity basics |
 
 ---
 
